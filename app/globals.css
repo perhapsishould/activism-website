@@ -6,9 +6,9 @@
   --foreground: #ffffff;
 
   /* Accent color - this will be different per design branch */
-  /* Default: Amber/Gold */
-  --accent: #d97706;
-  --accent-hover: #b45309;
+  /* Design: White/Inverted */
+  --accent: #ffffff;
+  --accent-hover: #e5e5e5;
 
   /* Grays for depth */
   --gray-dark: #171717;
